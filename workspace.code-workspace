@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "./client"
+        },
+        {
+            "path": "./server"
+        },
+        {
+            "path": "./common"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "log2990-201"
+    }
+}
